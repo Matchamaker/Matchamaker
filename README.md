@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name's Aditya Sharma though i don't think there is a need to mention it as it is already in my username.
+i am an incoming student of bachelors of technology in the broad field of cybersecurity and an aspiring pentester and hope to learn with the help of the experience of the people operating at this platform,deepen my knowledge of  this field and will try to consistenty upload my own repositories and learnings as well.
+Ich spreche auch ein bisschen Deutsch und ja,ich bin auf github!
 
+Incoming cyber security student | 1st year | aspiring penetration tester | German A1 | learner | basic C++ | basic python | basic SQL |
 <!--
 **Matchamaker/Matchamaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
