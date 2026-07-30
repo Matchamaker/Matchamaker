@@ -1,5 +1,5 @@
 ## Hi there 👋 My name's Aditya Sharma though i don't think there is a need to mention it as it is already in my username.
-i am an incoming student of bachelors of technology in the broad field of computer science and engineering and an aspiring cybersecurity specialst and hope to learn with the help of the experience of the people operating at this platform,deepen my knowledge of  this field and will try to consistenty upload my own repositories and learnings as well.
+i am an student of bachelors of technology in the broad field of computer science and engineering and an aspiring cybersecurity specialst and hope to learn with the help of the experience of the people operating at this platform,deepen my knowledge of  this field and will try to consistenty upload my own repositories and learnings as well.
 Ich spreche auch ein bisschen Deutsch und ja,ich bin auf github!
 
 CSE student | cyber security | 1st year | aspiring penetration tester | German A1 | learner | basic C++ | basic python | basic SQL |
