@@ -2,7 +2,7 @@
 i am a student of bachelors of technology in the broad field of computer science and engineering and am aiming to be a cybersecurity specialist in automation and cloud security and hope to learn with the help of the experience of the people operating at this platform ,deepen my knowledge of  this field and will try to consistently upload my own learnings as well.
 Ich spreche auch ein bisschen Deutsch und ja,ich bin auf github!
 
-CSE student | cyber security | 1st year | aspiring penetration tester | German A1 | learner | basic C++ | basic python | basic SQL |
+CSE student | cyber security | Automation | Cloud | 1st year | German A2 | learner | C++ | python | SQL | API | HTTP requests
 <!--
 **Matchamaker/Matchamaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
